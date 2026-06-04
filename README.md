@@ -1,3 +1,4 @@
 # apna-college-demo
 this is my first repo
-author khan shamshad
+<br>
+author -- khan shamshad
